@@ -1,0 +1,38 @@
+{
+    "name": "discordbot-js-template",
+    "version": "1.0.0",
+    "description": "This is a Discordbot Template wich includes a Command / Event Handler and caching modules for better performance aswell.",
+    "main": "client.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/depascaldc/DiscordBot-JS-Template.git"
+    },
+    "keywords": [
+        "discordbot",
+        "discordbot-template",
+        "discord",
+        "bot",
+        "chat",
+        "chatbot",
+        "nodejs",
+        "nodejs-discordbot"
+    ],
+    "author": "depascaldc",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/depascaldc/DiscordBot-JS-Template/issues"
+    },
+    "homepage": "https://github.com/depascaldc/DiscordBot-JS-Template#readme",
+    "devDependencies": {
+        "pm2": "^4.5.0"
+    },
+    "dependencies": {
+        "discord.js": "^12.4.1",
+        "enmap": "^5.8.2",
+        "fs": "0.0.1-security",
+        "logger-nodejs-simple": "^1.0.0"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "how to use this nice fancy discord bot template?": "https://github.com/depascaldc/DiscordBot-JS-Template/blob/master/README.md",
+    "list": [
+        "discord.js",
+        "enmap",
+        "fs"
+    ]
+}

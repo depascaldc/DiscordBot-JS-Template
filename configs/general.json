@@ -1,0 +1,26 @@
+{
+    "how to use this nice fancy discord bot template?": "https://github.com/depascaldc/DiscordBot-JS-Template/blob/master/README.md",
+    "prefix": "$",
+    "guild_id": "GUILDID is Required! At any Questions JOIN: https://discord.gg/Hjymztg5rR",
+    "activity": {
+        "text": "My awesome Bot :P | Copyright © 2020 depascaldc",
+        "type": "PLAYING",
+        "valid_types_note": "PLAYING, STREAMING, WATCHING, LISTENING (Text can stay empty if you dont want a activity)"
+    },
+    "channels": {
+        "event_log_channel": {
+            "enabled": true,
+            "id": "Logmessage Channel (Paste valid Channel ID if this channel should be active)"
+        },
+        "member_log_channel": {
+            "enabled": true,
+            "id": "Join/Leave message channel (Paste valid Channel ID if this channel should be active)",
+            "message_joined": "HI, {username}#{discriminator} :P Welcome here at our Discord Server\n\n{user_mention}",
+            "message_left": "{username}#{discriminator} has left our beautiful server :("
+        }
+    },
+    "join_dm": {
+        "enabled": true,
+        "message": "Hi {username}, Welcome at {servername}'s Discord Server."
+    }
+}

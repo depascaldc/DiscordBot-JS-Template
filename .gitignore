@@ -1,0 +1,7 @@
+# HOWTO: https://github.com/depascaldc/DiscordBot-JS-Template/blob/master/README.md
+
+# NodeJS
+node_modules/
+
+# NPM-JS
+package-lock.json
